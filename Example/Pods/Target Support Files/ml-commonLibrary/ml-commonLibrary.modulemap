@@ -1,0 +1,6 @@
+framework module ml_commonLibrary {
+  umbrella header "ml-commonLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
