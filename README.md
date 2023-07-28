@@ -1,3 +1,14 @@
+https://cocoapods.org/pods/ml-commonLibrary -> Lib released using Trunk in CocoaPod site
+
+Steps
+-----
+
+1. Once .podSpec file is created and pushed in repo, register for Trunk using commond
+       pod trunk register Mail-ID 'Your Name' --description='Any description'
+
+2. You will receive a mail to the mail box mentioned, verify it.
+3. From the directory were .podspec file is present, run pod trunk push your-lib-path.podspec
+
 # ml-commonLibrary
 
 [![CI Status](https://img.shields.io/travis/ragulm/ml-commonLibrary.svg?style=flat)](https://travis-ci.org/ragulm/ml-commonLibrary)
