@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ml-commonLibrary'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'The common library is a trailversion of my new feature library.'
 
 # This description is used to generate tags and improve search results.
